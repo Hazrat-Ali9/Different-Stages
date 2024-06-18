@@ -27,3 +27,5 @@ export default function DiffrentStages() {
     </div>
   );
 }
+
+// Different Stage 
