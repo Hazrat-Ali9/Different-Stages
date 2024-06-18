@@ -50,3 +50,5 @@ export default function Buttons( { number, setNumber , stages } ) {
     </div>
   );
 }
+
+// button
