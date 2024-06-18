@@ -6,7 +6,7 @@ import { useState } from "react";
 export default function DiffrentStages() {
   const texts = [
     "Step 1: Learn JavaScript",
-    "Step 2: Learn React",
+    "Step 2: Learn Java",
     "Step 3: Learn Python",
   ];
   const [number, setNumber] = useState(1);
