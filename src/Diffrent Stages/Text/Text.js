@@ -18,3 +18,5 @@ export default function Text({ text }) {
     </div>
   );
 }
+
+// text js
