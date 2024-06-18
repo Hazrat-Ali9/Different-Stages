@@ -7,7 +7,7 @@ export default function DiffrentStages() {
   const texts = [
     "Step 1: Learn JavaScript",
     "Step 2: Learn React",
-    "Step 3: Invest Your new Income",
+    "Step 3: Learn Python",
   ];
   const [number, setNumber] = useState(1);
   return (
